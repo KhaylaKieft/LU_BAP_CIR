@@ -1,1 +1,1 @@
-# LU_BAP_CIR
+Welcome to my BAP github repository. Here you can find all the datasets I used to create the final one named, "usa_govcombined." There are two seperate R scripts listed, one is how I conducted the data cleaning before the merging while the other displays the code behind my random forest.
