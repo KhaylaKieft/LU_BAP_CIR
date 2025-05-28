@@ -1,5 +1,5 @@
 # Welcome 
-Welcome to my BAP github repository. Here you can find all the datasets and codes I used to create my final project
+Welcome to my BAP github repository. Here you can find all the datasets and codes I used to create my final project.
 
 ## Access to my data
 Due to GIT not allowing files larger than 25MB to be uploaded on my page, I decided to upload them all onto google drive.
